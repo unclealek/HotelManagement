@@ -1,4 +1,4 @@
-# React Native AirBnB Clone with Clerk
+# React Native HotelManagement using Clerk Authentication and dummy data from Kaggle
 
 This is a React Native AirBnB clone using [Clerk](https://clerk.com/?utm_source=sponsorship&utm_medium=github&utm_campaign=simong&utm_content=rn-airbnb) for user authentication.
 
